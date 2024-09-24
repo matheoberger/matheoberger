@@ -4,8 +4,8 @@
 
 
 
-- 👨🏽‍💻 I’m currently looking for an internship abroad in devops specialty, please reach me if you have an idea !
-- 📫 How to reach me : matheo.berger@viacesi.fr or +33695940419
+- 👨🏽‍💻 I’m currently looking for a job, reach me if you have a proposal !
+- 📫 How to reach me : matheo.berger@pm.me
 
 <!---
 matheoberger/matheoberger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
