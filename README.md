@@ -1,11 +1,12 @@
-- 👋 Hi, I’m @matheoberger, I'm a DevOps engineering from Bordeaux, France.
-- 👀 I’m interested into devops stuff and gardening, I already made two migrations of big services (elasticsearch and gemserver) from AWS to GCP. I also wrote an article about [how to easily create a load balancer on google cloud](https://blog.experteer.engineering/creating-an-internal-load-balancer-terraform-gcp.html).
-      In another hand, I developped my software in order to help people doing some permaculture gardening ([permaculture sort](https://github.com/matheoberger/Permaculture-Sort-NodeJS-API)).
+- 👋 Hi, I’m @matheoberger, a DevOps engineer from Bordeaux, France.
+
+- 👀 I’m interested in DevOps and gardening. I have completed two migrations of large services (Elasticsearch and Gemserver) from AWS to GCP. I also wrote an article on how to easily create a load balancer on Google Cloud. Additionally, I developed software to help people with permaculture gardening (Permaculture Sort).
+
+- 👨🏽‍💻 I’m currently looking for a job, so feel free to reach out if you have any proposals!
+
+- 📫 How to reach me: matheo.berger@pm.me
 
 
-
-- 👨🏽‍💻 I’m currently looking for a job, reach me if you have a proposal !
-- 📫 How to reach me : matheo.berger@pm.me
 
 <!---
 matheoberger/matheoberger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
