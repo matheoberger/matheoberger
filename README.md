@@ -4,7 +4,7 @@
   
 - 📫 How to reach me: matheo.berger@pm.me
 
-
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=matheoberger)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 
