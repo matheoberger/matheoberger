@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @matheoberger, a DevOps engineer from Bordeaux, France.
+- 👋 Hi, I’m @matheoberger, a DevOps and backend engineer from Bordeaux, France.
 
-- 👀 I’m interested in DevOps and gardening, on my free time I'm developing Permasort, a website to help people with gardening plants associations.
+- 👀 I’m interested into optimizing processes and learn how to secure them as much as I can. On my free time I'm developing Permasort, a website to help people with gardening plants associations.
   
 - 📫 How to reach me: matheo.berger@pm.me
 <!---
